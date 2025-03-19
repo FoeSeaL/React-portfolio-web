@@ -1,5 +1,5 @@
 import React from 'react';
-
+import 'boxicons/css/boxicons.min.css';
 const Home = () => {
   return (
     <div>
