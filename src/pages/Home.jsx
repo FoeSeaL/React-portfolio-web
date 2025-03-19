@@ -14,23 +14,16 @@ const Home = () => {
             <button className="btn1">Hire me</button>
             <ul className="ul-icons">
               <li>
-                <a href="">
-                  <i className="bx bxl-github"></i>
-                </a>
+                <a href=""><i className="bx bxl-github"></i></a>
               </li>
               <li>
-                <a href="">
-                  <i className="bx bxl-twitter"></i>
-                </a>
+                <a href=""><i className="bx bxl-twitter"></i></a>
               </li>
               <li>
-                <a href="">
-                  <i className="bx bxl-youtube"></i>
-                </a>
+                <a href=""><i className="bx bxl-youtube"></i></a>
               </li>
               <li>
-                <a href="">
-                  <i className="bx bxl-facebook-circle"></i>
+                <a href=""><i className="bx bxl-facebook-circle"></i>
                 </a>
               </li>
             </ul>

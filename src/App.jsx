@@ -12,7 +12,7 @@ import './styles/style.css';
 function App() {
   return (
     <Router>
-      <div>
+      <>
         <GalaxyBackground />
         <section className="main-part">
           <Navbar />
@@ -24,7 +24,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </section>
-      </div>
+      </>
     </Router>
   );
 }
