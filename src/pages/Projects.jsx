@@ -17,7 +17,7 @@ const Projects = () => {
         {/* Project 1 */}
         <div className="project-card">
           <div className="project-image">
-            <img src="/images/nepal-wanders.png" alt="tourist platform" />
+            <img src="src/assets/images/nepal wanders.png" alt="tourist platform" />
           </div>
           <div className="project-info">
             <h3>Nepal Wander</h3>
@@ -43,7 +43,7 @@ const Projects = () => {
         {/* Project 2 */}
         <div className="project-card">
           <div className="project-image">
-            <img src="/images/flashcard.png" alt="Task Management App" />
+            <img src="src/assets/images/flashcard.png" alt="FlashCard App" />
           </div>
           <div className="project-info">
             <h3>FlashCard App</h3>
@@ -69,7 +69,7 @@ const Projects = () => {
         {/* Project 3 */}
         <div className="project-card">
           <div className="project-image">
-            <img src="/images/nepal-khabar.png" alt="Weather Dashboard" />
+            <img src="src/assets/images/nepal khabar.png" alt="nepalkhabar" />
           </div>
           <div className="project-info">
             <h3>Nepal Khabar</h3>

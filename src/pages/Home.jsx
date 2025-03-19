@@ -1,5 +1,4 @@
 import React from 'react';
-import 'boxicons';
 
 const Home = () => {
   return (
@@ -38,7 +37,7 @@ const Home = () => {
           </div>
         </div>
         <div className="hero-img">
-          <img src="/images/me.png" alt="person-image" />
+          <img src="src/assets/images/me.png" alt="person-image" />
         </div>
       </div>
 
