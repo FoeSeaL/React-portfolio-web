@@ -56,7 +56,7 @@ const Projects = () => {
               <span className="tag">bootstrap</span>
             </div>
             <div className="project-links">
-              <a href="#">
+              <a href="https://foeseal.github.io/FlashCard/">
                 <i className="bx bx-link-external"></i> Live Demo
               </a>
               <a href="https://github.com/FoeSeaL/flashcard-project">
