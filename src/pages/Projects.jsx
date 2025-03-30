@@ -91,6 +91,28 @@ const Projects = () => {
             </div>
           </div>
         </div>
+
+{/* Project 4 */}
+<div className="project-card">
+  <div className="project-image">
+    <img src="src/assets/images/recipe.png" alt="Weather Dashboard" />
+
+  </div>
+  <div className="project-info">
+    <h3>Recipe Explorer</h3>
+    <p>Recipe Explorer is a web application built with HTML, CSS, React, Vite, and JavaScript that helps users discover recipes based on available ingredients, streamlining meal planning and cooking.</p>
+    <div className="project-tags">
+      <span className="tag">React</span>
+      <span className="tag">JavaScript</span>
+      <span className="tag">Vite</span>
+    </div>
+    <div className="project-links">
+      <a href="#"><i className="bx bx-link-external" /> Live Demo</a>
+      <a href="https://github.com/FoeSeaL/RecipeFinder/tree/main/recipe-finder"><i className="bx bxl-github" /> Source Code</a>
+    </div>
+  </div>
+</div>
+
       </div>
     </div>
   );
